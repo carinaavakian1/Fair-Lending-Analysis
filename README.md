@@ -31,8 +31,3 @@ One important limitation: the public data has no credit scores, so this is an **
 
 ## Reflection
 Working on this with my team was a great experience. Handling a file this large, making careful cleaning decisions and making sure every one of us could explain the models was challenging at times, but it was all worth it. I learned a lot about turning messy real-world data into a clear answer for a client, and I'm proud of what we built together.
-
-## Files
-- `notebooks/`: analysis code
-- `MMA860_Final_Report.pdf`: full report
-- `Team_Ossington_Presentation.pdf`: slides
